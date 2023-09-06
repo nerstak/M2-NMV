@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GDB" type="CLion_Remote" version="1" remoteCommand="localhost:1234" symbolFile="$PROJECT_DIR$/bin/rackdoll.elf" sysroot="$PROJECT_DIR$">
+    <debugger toolchainName="WSL" />
+    <method v="2" />
+  </configuration>
+</component>
